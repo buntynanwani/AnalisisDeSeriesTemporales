@@ -1,0 +1,11 @@
+# Dependencias principales
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+prophet
+tensorflow
+jupyter
+notebook
