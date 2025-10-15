@@ -1,5 +1,4 @@
 # 📘 Análisis de Series Temporales  
-**Guía didáctica para entender y enseñar paso a paso**
 
 ---
 
