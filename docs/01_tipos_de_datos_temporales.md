@@ -165,11 +165,5 @@ Todo eso se logra entendiendo los datos temporales y sus frecuencias.
 | **Visualización**    | Permite detectar patrones fácilmente        |
 
 
-🚀 Tarea sugerida
 
-Crea tu propio DataFrame con fechas y valores (por ejemplo, tus horas de estudio o pasos diarios).
-
-Convierte las fechas al formato datetime.
-
-Grafica tus datos y comenta si ves alguna tendencia o patrón.
 
