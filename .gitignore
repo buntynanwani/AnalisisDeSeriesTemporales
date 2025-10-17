@@ -17,7 +17,7 @@ venv/
 
 # Datos
 data/raw/*
-data/processed/*
+
 data/external/*
 
 # Modelos
